@@ -1,2 +1,2 @@
-# Excel-Gesti-n_RRHH
-Proyecto en Excel para optimizar y analizar datos de trabajadores en RRHH. Se aplican formato, separación de columnas, corrección de fechas, inmovilización de paneles, funciones SI, CONTAR.SI, SUMAR.SI, formato de tabla y segmentadores de datos para mejorar la organización y visualización.
+# Excel-Optimización_Datos_RRHH
+Este proyecto en Excel optimiza y analiza una base de datos de trabajadores en el área de Recursos Humanos. Se aplican técnicas de limpieza y transformación de datos, como separación de columnas con relleno automático, corrección de fechas, inmovilización de paneles y formato condicional. Además, se utilizan funciones avanzadas como SI, CONTAR.SI y SUMAR.SI para el análisis de datos. También se implementa el formato de tabla y segmentadores de datos para mejorar la visualización y la toma de decisiones.
